@@ -1,0 +1,2 @@
+# Daily Notes
+Load environment variables in correct order
